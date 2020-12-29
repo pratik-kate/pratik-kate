@@ -13,7 +13,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-kate&theme=dark&hide_langs_below=1&bg_color=F42C04&icon_color=0F1A20&text_color=0F1A20&title_color=0F1A20" />
 </a>
 <br><br>
-![](https://komarev.com/ghpvc/?username=pratik-kate&color=F42C04)
 <!--
 **pratik-kate/pratik-kate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

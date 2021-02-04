@@ -4,7 +4,7 @@
 ✨ I'm Good At <b>Bugs Fixing</b> And <b>Problem Solving</b>.<br>
 📫 You Can Contact Me Here, pratikrkate@gmail.com<br>
 👯 Actively Looking To Colaborate.<br>
-😄 Happy To Help You With Android And Tech Stuffs.
+😄 Happy To Help You With Android And Tech Stuffs.<br>
 <a href="https://pratik-kate.github.io/">⚡ Portfolio</a>
 <br><br>
 <a href="https://github.com/pratik-kate?tab=repositories">

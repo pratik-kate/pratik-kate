@@ -1,10 +1,10 @@
 # Hi, I am Pratik Kate.
-<h1>I build things for an Android.</h1>
-💻 I'm Computer Science Undergraduate, Specializing In <b>Designing And Developing Android Applications.</b><br>
+<h1>I build things for a Mobile.</h1>
+💻 I'm Software Engineer, Specializing In <b>Designing And Developing Mobile Applications.</b><br>
 ✨ I'm Good At <b>Bugs Fixing</b> And <b>Problem Solving</b>.<br>
 📫 You Can Contact Me Here, pratikrkate@gmail.com<br>
 👯 Actively Looking To Colaborate.<br>
-😄 Happy To Help You With Android And Tech Stuffs.<br>
+😄 Happy To Help You With Android And iOS Stuffs.<br>
 <a href="https://pratik-kate.github.io/">⚡ Portfolio</a>
 <br><br>
 <a href="https://github.com/pratik-kate?tab=repositories">

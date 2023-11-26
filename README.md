@@ -9,6 +9,6 @@
 <br>
 <br>
 
-<a href="https://github.com/pratik-kate?tab=repositories">
+<!-- <a href="https://github.com/pratik-kate?tab=repositories">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik-kate&&show_icons=true&title_color=0F1A20&icon_color=0F1A20&text_color=0F1A20&bg_color=F42C04&show_icons=true&theme=dracula&line_height=27" alt="Pratik's github stats"/>
-</a>
+</a> -->
